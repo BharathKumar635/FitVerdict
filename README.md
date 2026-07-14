@@ -212,3 +212,5 @@ If `json.loads` fails or output validation fails, a `ValueError` is raised in [f
 
 - **Objective Evaluation**: The AI is instructed to focus exclusively on professional skills, years of experience, relevant certifications, and education, ignoring personal or protected demographic characteristics.
 - **Human-in-the-Loop**: This tool is an informational aid. Final hiring decisions should always involve human review.
+#   F i t V e r d i c t  
+ 
